@@ -1,0 +1,5 @@
+package com.rossi.pacman.world;
+
+public enum TileType {
+    RIGHT_BOTTOM_CORNER, LEFT_BOTTOM_CORNER, RIGHT_TOP_CORNER, LEFT_TOP_CORNER, HORIZONTAL_WALL, VERTICAL_WALL, OPEN
+}
